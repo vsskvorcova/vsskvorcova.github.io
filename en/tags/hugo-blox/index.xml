@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | Veronika Skvorcova</title>
+    <link>https://vsskvorcova.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://vsskvorcova.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vsskvorcova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://vsskvorcova.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Week 5</title>
+      <link>https://vsskvorcova.github.io/en/post/05/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://vsskvorcova.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-week-5-june-1722-final-steps&#34;&gt;📅 Week 5 (June 17–22): final steps&lt;/h2&gt;
+&lt;p&gt;The last week before the official end of the semester — grades were finalized, and we completed reflections for the courses.&lt;br&gt;
+I worked on the final report for &lt;strong&gt;mathematical logic&lt;/strong&gt;, reviewed the lectures, and revisited the proofs that had caused difficulties earlier.&lt;/p&gt;
+&lt;p&gt;🏁 Summary:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All exams completed: programming, math analysis, logic — ✅&lt;/li&gt;
+&lt;li&gt;Enrolled in a summer school on applied analytics&lt;/li&gt;
+&lt;li&gt;Wrote a post with recommendations and materials for first-year students — happy to share my experience&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 4</title>
+      <link>https://vsskvorcova.github.io/en/post/04/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://vsskvorcova.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4-june-1016-the-second-exam&#34;&gt;📅 Week 4 (June 10–16): the second exam&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;mathematical analysis exam&lt;/strong&gt; took place on Tuesday. It included 4 theoretical questions and 3 problems — covering derivatives, extreme points, and definite integrals.&lt;br&gt;
+The problems were challenging, but I managed to recall all the required steps. Final result: 82 points.&lt;/p&gt;
+&lt;p&gt;📊 Academic highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learned integration techniques: by parts and substitution.&lt;/li&gt;
+&lt;li&gt;Reviewed convergence criteria for numerical series.&lt;/li&gt;
+&lt;li&gt;Started wrapping up the semester — took notes on what to focus on during summer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 3</title>
+      <link>https://vsskvorcova.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://vsskvorcova.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3-june-39-first-exam-week&#34;&gt;📅 Week 3 (June 3–9): first exam week&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;programming exam&lt;/strong&gt; took place this week. It included both a written and a practical section. In the practical part, we wrote Python functions and debugged code.&lt;br&gt;
+I scored 90 points — happy that all the preparation paid off. My debugging and testing practice really helped!&lt;/p&gt;
+&lt;p&gt;📌 Focus of the week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rewrote older assignments to get a deeper grasp of algorithms.&lt;/li&gt;
+&lt;li&gt;Started revising theorems and techniques for analysis — the second exam is coming soon.&lt;/li&gt;
+&lt;li&gt;Joined a group session to review math analysis problems — turned out to be very productive!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://vsskvorcova.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://vsskvorcova.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2-may-27--june-2-peak-of-preparation&#34;&gt;📅 Week 2 (May 27 – June 2): peak of preparation&lt;/h2&gt;
+&lt;p&gt;This week was all about &lt;strong&gt;mathematical analysis&lt;/strong&gt;. In lectures, we covered limits, derivatives, and important theorems — Bolzano-Cauchy, Lagrange, and Rolle.&lt;br&gt;
+During practice sessions, we worked on proving convergence and analyzing functions. Challenging, but very engaging!&lt;/p&gt;
+&lt;p&gt;📘 Achievements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed all programming lab assignments — wrote parsers and basic sorting algorithms.&lt;/li&gt;
+&lt;li&gt;Passed the logic credit test successfully.&lt;/li&gt;
+&lt;li&gt;Made condensed notes for the math analysis exam — super handy for revision!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://vsskvorcova.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vsskvorcova.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1-may-2026-the-start-of-exam-season&#34;&gt;📅 Week 1 (May 20–26): the start of exam season&lt;/h2&gt;
+&lt;p&gt;This week we completed the final module in &lt;strong&gt;mathematical logic&lt;/strong&gt;. There was a fascinating lecture on propositional calculus and the concept of deductive systems.&lt;br&gt;
+In the seminar, we practiced problems on proving the derivability of formulas — not everything worked on the first try, but it became clear how important it is to structure logical reasoning clearly.&lt;/p&gt;
+&lt;p&gt;🔍 Highlights of the week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Final logic test — scored 85 points!&lt;/li&gt;
+&lt;li&gt;Read a chapter on normal forms and reviewed CNF and DNF.&lt;/li&gt;
+&lt;li&gt;Started preparing for the &lt;strong&gt;programming&lt;/strong&gt; exam: revised Python topics — lists, dictionaries, and functions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
